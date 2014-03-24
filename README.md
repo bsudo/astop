@@ -3,4 +3,4 @@ astop
 
 Asterisk Top
 
-HTOP Style interface for montioring Asterisk server statistics, such as channel usage, Online peers etc.
+Active project is located: https://github.com/jjsearle/astop
